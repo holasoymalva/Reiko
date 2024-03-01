@@ -1,4 +1,4 @@
-# trackfy
+# Reiko
 The modern way to track your personal growth.
 
 
